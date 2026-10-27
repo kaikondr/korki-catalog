@@ -1,0 +1,3667 @@
+{
+  "source": "ФГБОУ ВО «ГМУ имени адмирала Ф.Ф. Ушакова». Перечень учебных курсов на 01.07.2026",
+  "asOf": "2026-07-01",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Специальная подготовка судового персонала"
+    },
+    {
+      "number": 2,
+      "title": "Подготовка судоводителей и специалистов связи"
+    },
+    {
+      "number": 3,
+      "title": "Подготовка судовых механиков и электромехаников"
+    },
+    {
+      "number": 4,
+      "title": "Подготовка по морским рабочим специальностям"
+    },
+    {
+      "number": 6,
+      "title": "Подготовка специалистов по управлению маломерными судами"
+    }
+  ],
+  "courses": [
+    {
+      "id": "gmu-001",
+      "number": 1,
+      "section": 1,
+      "name": "Начальная подготовка по безопасности",
+      "description": "Подготовка в соответствии с требованиями пунктов 1-4 раздела A-VI/1 Кодекса ПДНВ",
+      "stcwCode": "A-VI/1",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Basic Safety Training",
+        "Basic training",
+        "BST"
+      ],
+      "aliases": [
+        "Basic Safety Training",
+        "Basic training",
+        "BST"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/13062/info/01_%D0%9D%D0%9F%D0%91_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%28%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_70%29",
+      "sdoTitle": "НПБ Начальная подготовка по безопасности (пятилетняя переподготовка, 70)",
+      "managerName": "Елена Николаевна",
+      "managerPhone": "+7 (8617) 76-79-10"
+    },
+    {
+      "id": "gmu-002",
+      "number": 2,
+      "section": 1,
+      "name": "Практика борьбы с пожаром на танкерах",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "tanker fire fighting"
+      ],
+      "aliases": [
+        "tanker fire fighting"
+      ]
+    },
+    {
+      "id": "gmu-003",
+      "number": 3,
+      "section": 1,
+      "name": "Подготовка специалиста с расширенной подготовкой по современным методам борьбы с пожаром",
+      "description": "В соответствии с пунктами 1-4 раздела A-VI/3 Кодекса ПДНВ (пункт 1 Правила VI/3 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/3",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced Fire Fighting",
+        "Advanced training in fire fighting",
+        "AFF"
+      ],
+      "aliases": [
+        "Advanced Fire Fighting",
+        "Advanced training in fire fighting",
+        "AFF"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11738/info/03_%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D1%81_%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D0%BE%D0%BC_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA_%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5_%D1%81_%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D0%BE%D0%BC_%D0%BF%D0%BE_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%28%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_70%29",
+      "sdoTitle": "Борьба с пожаром Подготовка к борьбе с пожаром по расширенной программе (пятилетняя переподготовка, 70)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-004",
+      "number": 4,
+      "section": 1,
+      "name": "Подготовка специалиста по спасательным шлюпкам и плотам и дежурным шлюпкам, не являющимся скоростными дежурными шлюпками",
+      "description": "В соответствии с пунктами 1-4 раздела A-VI/2 Кодекса ПДНВ (пункт 1.3 Правила VI/2 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/2",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Proficiency in Survival Craft and Rescue Boats",
+        "survival craft",
+        "PSCRB"
+      ],
+      "aliases": [
+        "Proficiency in Survival Craft and Rescue Boats",
+        "survival craft",
+        "PSCRB"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/13443/info/02_%D0%A8%D0%BB%D1%8E%D0%BF%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BB%D0%BE%D1%82%D1%8B_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BF%D0%BE_%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC_%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0%D0%BC_%D0%B8_%D0%BF%D0%BB%D0%BE%D1%82%D0%B0%D0%BC_%D0%B8_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D1%8B%D0%BC_%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0%D0%BC%2C_%D0%BD%D0%B5_%D1%8F%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%BC%D1%81%D1%8F_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D1%8B%D0%BC%D0%B8_%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0%D0%BC%D0%B8_%28%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE_50%29",
+      "sdoTitle": "Шлюпки и плоты Подготовка специалиста по спасательным шлюпкам и плотам и дежурным шлюпкам, не являющимся скоростными дежурными шлюпками (пятилетняя переподготовка, повторно 50)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-005",
+      "number": 5,
+      "section": 1,
+      "name": "Подготовка специалиста по скоростным дежурным шлюпкам",
+      "description": "В соответствии с пунктами 7-10 раздела A-VI/2 Кодекса ПДНВ (пункты 2.2 и 2.3 Правила VI/2 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Proficiency in Fast Rescue Boats",
+        "fast rescue boat",
+        "FRB"
+      ],
+      "aliases": [
+        "Proficiency in Fast Rescue Boats",
+        "fast rescue boat",
+        "FRB"
+      ]
+    },
+    {
+      "id": "gmu-006",
+      "number": 6,
+      "section": 1,
+      "name": "Курс подготовки по спасательным шлюпкам свободного падения",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "free fall lifeboat",
+        "freefall lifeboat"
+      ],
+      "aliases": [
+        "free fall lifeboat",
+        "freefall lifeboat"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10558/info/65_%D0%9E%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC_%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0%D0%BC_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
+      "sdoTitle": "Ознакомительный курс подготовки по спасательным шлюпкам свободного падения",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-007",
+      "number": 7,
+      "section": 1,
+      "name": "Спуск и подъём шлюпки",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "lifeboat launching",
+        "launching and recovery"
+      ],
+      "aliases": [
+        "lifeboat launching",
+        "launching and recovery"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10557/info/64_%D0%9E%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81_%D0%BF%D0%BE_%D1%81%D0%BF%D1%83%D1%81%D0%BA%D1%83_%D0%B8_%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D1%83_%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B8",
+      "sdoTitle": "Ознакомительный курс по спуску и подъему спасательной шлюпки",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-008",
+      "number": 8,
+      "section": 1,
+      "name": "Вход в закрытое помещение с оценкой риска",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "enclosed space entry",
+        "confined space entry"
+      ],
+      "aliases": [
+        "enclosed space entry",
+        "confined space entry"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10619/info/63_%D0%92%D1%85%D0%BE%D0%B4_%D0%B2_%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%BE%D0%B9_%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2",
+      "sdoTitle": "Вход в закрытое помещение с оценкой рисков",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-009",
+      "number": 9,
+      "section": 1,
+      "name": "Специалист по воздушно-дыхательным аппаратам",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "breathing apparatus"
+      ],
+      "aliases": [
+        "breathing apparatus"
+      ]
+    },
+    {
+      "id": "gmu-010",
+      "number": 10,
+      "section": 1,
+      "name": "Предотвращение и реагирование на ситуации, связанные с издевательствами и домогательствами, в том числе сексуальными, на судах",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "bullying and harassment",
+        "sexual harassment"
+      ],
+      "aliases": [
+        "bullying and harassment",
+        "sexual harassment"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12303/info/00_%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D1%82%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D1%80%D0%B5%D0%B0%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8%2C_%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81_%D0%B8%D0%B7%D0%B4%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8_%D0%B8_%D0%B4%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8%2C_%D0%B2_%D1%82%D0%BE%D0%BC_%D1%87%D0%B8%D1%81%D0%BB%D0%B5_%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8%2C_%D0%BD%D0%B0_%D1%81%D1%83%D0%B4%D0%B0%D1%85",
+      "sdoTitle": "Предотвращение и реагирование на ситуации, связанные с издевательствами и домогательствами, в том числе сексуальными, на судах",
+      "managerName": "Степень Елена Николаевна",
+      "managerPhone": "+7 (8617) 76-79-10"
+    },
+    {
+      "id": "gmu-011",
+      "number": 11,
+      "section": 1,
+      "name": "Начальная подготовка по проведению грузовых операций на нефтяных танкерах или танкерах-химовозах",
+      "description": "В соответствии с пунктом 1 раздела A-V/1-1 Кодекса ПДНВ (пункт 2.2 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Basic training for oil and chemical tanker cargo operations",
+        "oil and chemical tanker familiarization"
+      ],
+      "aliases": [
+        "Basic training for oil and chemical tanker cargo operations",
+        "oil and chemical tanker familiarization"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10672/info/10_%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0%2C_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0-%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Нефтяные танкера, танкера-химовозы Начальная подготовка (сокращенный курс)"
+    },
+    {
+      "id": "gmu-012",
+      "number": 12,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на нефтяных танкерах по расширенной программе",
+      "description": "В соответствии с пунктом 2 раздела A-V/1-1 Кодекса ПДНВ (пункт 4.3 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for oil tanker cargo operations",
+        "advanced oil tanker"
+      ],
+      "aliases": [
+        "Advanced training for oil tanker cargo operations",
+        "advanced oil tanker"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10677/info/12_%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Нефтяные танкера Расширенная подготовка (сокращенный курс)"
+    },
+    {
+      "id": "gmu-013",
+      "number": 13,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на танкерах-химовозах по расширенной программе",
+      "description": "В соответствии с пунктом 3 раздела A-V/1-1 Кодекса ПДНВ (пункт 6.3 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for chemical tanker cargo operations",
+        "advanced chemical tanker"
+      ],
+      "aliases": [
+        "Advanced training for chemical tanker cargo operations",
+        "advanced chemical tanker"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11733/info/14_%D0%A2%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0-%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29%2C_2%2C0",
+      "sdoTitle": "Танкера-химовозы Расширенная подготовка (сокращенный курс), 2,0",
+      "managerPhone": "+7(918) 061-15-23"
+    },
+    {
+      "id": "gmu-014",
+      "number": 14,
+      "section": 1,
+      "name": "Начальная подготовка по проведению грузовых операций на газовозах",
+      "description": "В соответствии с пунктом 1 раздела A-V/1-2 Кодекса ПДНВ (пункт 2.2 Правила V/1-2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Basic training for liquefied gas tanker cargo operations",
+        "gas tanker familiarization"
+      ],
+      "aliases": [
+        "Basic training for liquefied gas tanker cargo operations",
+        "gas tanker familiarization"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10706/info/16_%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Газовозы Начальная подготовка (сокращенный курс)"
+    },
+    {
+      "id": "gmu-015",
+      "number": 15,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на газовозах по расширенной программе",
+      "description": "В соответствии с пунктом 2 раздела A-V/1-2 Кодекса ПДНВ (пункт 4.3 Правила V/1-2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for liquefied gas tanker cargo operations",
+        "advanced gas tanker"
+      ],
+      "aliases": [
+        "Advanced training for liquefied gas tanker cargo operations",
+        "advanced gas tanker"
+      ]
+    },
+    {
+      "id": "gmu-016",
+      "number": 16,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по начальной подготовке по проведению грузовых операций на нефтяных танкерах и танкерах-химовозах",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/10675/info/11_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0%2C_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0-%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Повышение квалификации Нефтяные танкера, танкера-химовозы Начальная подготовка (повторный курс)"
+    },
+    {
+      "id": "gmu-017",
+      "number": 17,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по проведению грузовых операций на нефтяных танкерах по расширенной программе",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/10682/info/13_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Повышение квалификации Нефтяные танкера Расширенная подготовка (повторный курс)"
+    },
+    {
+      "id": "gmu-018",
+      "number": 18,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по проведению грузовых операций на танкерах-химовозах по расширенной программе",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/11716/info/15_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%A2%D0%B0%D0%BD%D0%BA%D0%B5%D1%80%D0%B0-%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29%2C_2%2C0",
+      "sdoTitle": "Повышение квалификации Танкера-химовозы Расширенная подготовка (повторный курс), 2,0",
+      "managerPhone": "+7(918) 061-15-23"
+    },
+    {
+      "id": "gmu-019",
+      "number": 19,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по начальной подготовке по проведению грузовых операций на газовозах",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/10713/info/17_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81%29",
+      "sdoTitle": "Повышение квалификации Газовозы Начальная подготовка (повторный курс)"
+    },
+    {
+      "id": "gmu-020",
+      "number": 20,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по проведению грузовых операций на газовозах по расширенной программе",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/10164/info/18_%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BF%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E_%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D1%8B%D1%85_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9_%D0%BD%D0%B0_%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0%D1%85_%D0%BF%D0%BE_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%2820%29",
+      "sdoTitle": "Газовозы Расширенная подготовка Программа повышения квалификации по должности специалиста по проведению грузовых операций на газовозах по расширенной программе (20)",
+      "managerName": "Елена Юрьевна",
+      "managerPhone": "+7 (8617) 76-79-08"
+    },
+    {
+      "id": "gmu-021",
+      "number": 21,
+      "section": 1,
+      "name": "Начальная подготовка по проведению грузовых операций на нефтяных танкерах или танкерах-химовозах (повторно)",
+      "description": "В соответствии с пунктом 1 раздела A-V/1-1 Кодекса ПДНВ (пункт 2.2 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Basic training for oil and chemical tanker cargo operations",
+        "oil and chemical tanker familiarization"
+      ],
+      "aliases": [
+        "Basic training for oil and chemical tanker cargo operations",
+        "oil and chemical tanker familiarization"
+      ]
+    },
+    {
+      "id": "gmu-022",
+      "number": 22,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на нефтяных танкерах по расширенной программе (повторно)",
+      "description": "В соответствии с пунктом 2 раздела A-V/1-1 Кодекса ПДНВ (пункт 4.3 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for oil tanker cargo operations",
+        "advanced oil tanker"
+      ],
+      "aliases": [
+        "Advanced training for oil tanker cargo operations",
+        "advanced oil tanker"
+      ]
+    },
+    {
+      "id": "gmu-023",
+      "number": 23,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на танкерах-химовозах по расширенной программе (повторно)",
+      "description": "В соответствии с пунктом 3 раздела A-V/1-1 Кодекса ПДНВ (пункт 6.3 Правила V/1-1 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-1",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for chemical tanker cargo operations",
+        "advanced chemical tanker"
+      ],
+      "aliases": [
+        "Advanced training for chemical tanker cargo operations",
+        "advanced chemical tanker"
+      ]
+    },
+    {
+      "id": "gmu-024",
+      "number": 24,
+      "section": 1,
+      "name": "Начальная подготовка по проведению грузовых операций на газовозах (повторно)",
+      "description": "В соответствии с пунктом 1 раздела A-V/1-2 Кодекса ПДНВ (пункт 2.2 Правила V/1-2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-2",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Basic training for liquefied gas tanker cargo operations",
+        "gas tanker familiarization"
+      ],
+      "aliases": [
+        "Basic training for liquefied gas tanker cargo operations",
+        "gas tanker familiarization"
+      ]
+    },
+    {
+      "id": "gmu-025",
+      "number": 25,
+      "section": 1,
+      "name": "Подготовка по проведению грузовых операций на газовозах по расширенной программе (повторно)",
+      "description": "В соответствии с пунктом 2 раздела A-V/1-2 Кодекса ПДНВ (пункт 4.3 Правила V/1-2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/1-2",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Advanced training for liquefied gas tanker cargo operations",
+        "advanced gas tanker"
+      ],
+      "aliases": [
+        "Advanced training for liquefied gas tanker cargo operations",
+        "advanced gas tanker"
+      ]
+    },
+    {
+      "id": "gmu-026",
+      "number": 26,
+      "section": 1,
+      "name": "Начальная подготовка для работы на судах, подпадающих под действие Кодекса МГТ",
+      "description": "В соответствии с пунктом 1 раздела A-V/3 Кодекса ПДНВ (пункт 5 Правила V/3 Конвенции ПДНВ)",
+      "stcwCode": "A-V/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "IGF Code basic",
+        "Basic training for ships subject to the IGF Code"
+      ],
+      "aliases": [
+        "IGF Code basic",
+        "Basic training for ships subject to the IGF Code"
+      ]
+    },
+    {
+      "id": "gmu-027",
+      "number": 27,
+      "section": 1,
+      "name": "Подготовка по расширенной программе для работы на судах, подпадающих под действие Кодекса МГТ",
+      "description": "В соответствии с пунктом 2 раздела A-V/3 Кодекса ПДНВ (пункт 8.1 Правила V/3 Конвенции ПДНВ)",
+      "stcwCode": "A-V/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "IGF Code advanced",
+        "Advanced training for ships subject to the IGF Code"
+      ],
+      "aliases": [
+        "IGF Code advanced",
+        "Advanced training for ships subject to the IGF Code"
+      ]
+    },
+    {
+      "id": "gmu-028",
+      "number": 28,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста по безопасности с начальной подготовкой, относящейся к работе с топливом на судах, подпадающих под действие Кодекса МГТ",
+      "categories": [
+        "refresher"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-029",
+      "number": 29,
+      "section": 1,
+      "name": "Программа повышения квалификации по должности специалиста с расширенной подготовкой по работе с топливом и топливными системами на судах, подпадающих под действие Кодекса МГТ",
+      "categories": [
+        "refresher"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-030",
+      "number": 30,
+      "section": 1,
+      "name": "Подготовка на тренажёре в отношении бункеровки газовым топливом на судах, подпадающих под действие Кодекса МГТ",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "gas fuel bunkering"
+      ],
+      "aliases": [
+        "gas fuel bunkering"
+      ]
+    },
+    {
+      "id": "gmu-031",
+      "number": 31,
+      "section": 1,
+      "name": "Система контроля паров нефтепродуктов",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "vapour emission control",
+        "vapor emission control",
+        "VECS"
+      ],
+      "aliases": [
+        "vapour emission control",
+        "vapor emission control",
+        "VECS"
+      ]
+    },
+    {
+      "id": "gmu-032",
+      "number": 32,
+      "section": 1,
+      "name": "Подготовка по оказанию первой помощи",
+      "description": "Подготовка в соответствии с пунктами 1-3 раздела A-VI/4 Кодекса ПДНВ (пункт 1 Правила VI/4 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/4",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "Medical First Aid",
+        "Elementary First Aid",
+        "first aid"
+      ],
+      "aliases": [
+        "Medical First Aid",
+        "Elementary First Aid",
+        "first aid"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11772/info/04_%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8E_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8_%28%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_50%29",
+      "sdoTitle": "Первая помощь Подготовка по оказанию первой помощи (пятилетняя переподготовка, 50)",
+      "managerPhone": "+7 (8617) 76-79-93"
+    },
+    {
+      "id": "gmu-033",
+      "number": 33,
+      "section": 1,
+      "name": "Медицинский уход",
+      "description": "Подготовка в соответствии с пунктами 4-6 раздела A-VI/4 Кодекса ПДНВ (пункт 2 Правила VI/4 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/4",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Medical Care"
+      ],
+      "aliases": [
+        "Medical Care"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11809/info/09_%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%85%D0%BE%D0%B4_%2850%29",
+      "sdoTitle": "Медицинский уход (50)",
+      "managerPhone": "+7 (8617) 76-79-93"
+    },
+    {
+      "id": "gmu-034",
+      "number": 34,
+      "section": 1,
+      "name": "Подготовка по охране для лиц, имеющих назначенные обязанности по охране",
+      "description": "Подготовка специалиста, имеющего назначенные обязанности по вопросам охраны, в соответствии с пунктами 6-8 раздела A-VI/6 Кодекса ПДНВ (пункт 4 Правила VI/6 Конвенции ПДНВ)",
+      "stcwCode": "A-VI/6",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Designated Security Duties"
+      ],
+      "aliases": [
+        "Designated Security Duties"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/13267/info/05_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%BE_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%29%2C_30",
+      "sdoTitle": "Подготовка по охране (для лиц, имеющих назначенные обязанности по охране), 30",
+      "managerPhone": "+7 (8617) 76-79-08"
+    },
+    {
+      "id": "gmu-035",
+      "number": 35,
+      "section": 1,
+      "name": "Подготовка по охране для лиц, не имеющих назначенных обязанностей по охране",
+      "description": "Подготовка в соответствии с пунктом 1 Правила VI/6 Конвенции ПДНВ",
+      "stcwCode": "VI/6",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Security Awareness"
+      ],
+      "aliases": [
+        "Security Awareness"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/13278/info/06_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%BD%D0%B5_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%BE_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%29%2C_30",
+      "sdoTitle": "Подготовка по охране (для лиц, не имеющих назначенные обязанности по охране), 30",
+      "managerPhone": "+7 (8617) 76-79-08"
+    },
+    {
+      "id": "gmu-036",
+      "number": 36,
+      "section": 1,
+      "name": "Подготовка специалиста командного состава судна, ответственного за охрану судна",
+      "description": "Пункт 1.2 Правила VI/5 Конвенции ПДНВ",
+      "stcwCode": "VI/5",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Ship Security Officer",
+        "SSO"
+      ],
+      "aliases": [
+        "Ship Security Officer",
+        "SSO"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8298/info/07_Ship_security_officer_%28%D0%BF%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D0%BE%29_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0_%D1%81%D1%83%D0%B4%D0%BD%D0%B0%2C_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83_%D1%81%D1%83%D0%B4%D0%BD%D0%B0",
+      "sdoTitle": "Ship security officer (первично) Подготовка специалиста командного состава судна, ответственного за охрану судна",
+      "sdoRefresherURL": "https://aumsu.floralms.ru/content/13358/info/08_Ship_security_officer_%28%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%29_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D1%86%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0%2C_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_%2830%29",
+      "sdoRefresherTitle": "Ship security officer (переподготовка) Подготовка лица командного состава, ответственного за охрану судна (30)",
+      "managerPhone": "+7 (8617) 76-79-08"
+    },
+    {
+      "id": "gmu-037",
+      "number": 37,
+      "section": 1,
+      "name": "Тренажёр по обработке груза и балластировке (для нефтяного танкера)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "oil tanker"
+      ],
+      "aliases": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "oil tanker"
+      ]
+    },
+    {
+      "id": "gmu-038",
+      "number": 38,
+      "section": 1,
+      "name": "Тренажёр по обработке груза и балластировке (для танкера-химовоза)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "chemical tanker"
+      ],
+      "aliases": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "chemical tanker"
+      ]
+    },
+    {
+      "id": "gmu-039",
+      "number": 39,
+      "section": 1,
+      "name": "Тренажёр по обработке груза и балластировке (для танкера-газовоза СНГ)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "LPG"
+      ],
+      "aliases": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "LPG"
+      ]
+    },
+    {
+      "id": "gmu-040",
+      "number": 40,
+      "section": 1,
+      "name": "Тренажёр по обработке груза и балластировке (для танкера-газовоза СПГ)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "LNG"
+      ],
+      "aliases": [
+        "cargo handling and ballast",
+        "liquid cargo handling simulator",
+        "LNG"
+      ]
+    },
+    {
+      "id": "gmu-041",
+      "number": 41,
+      "section": 1,
+      "name": "Английский язык для судоводителей",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Maritime English for deck officers"
+      ],
+      "aliases": [
+        "Maritime English for deck officers"
+      ]
+    },
+    {
+      "id": "gmu-042",
+      "number": 42,
+      "section": 1,
+      "name": "Английский язык для судоводителей. Тестирование",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ]
+    },
+    {
+      "id": "gmu-043",
+      "number": 43,
+      "section": 1,
+      "name": "Английский язык для судовых механиков",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "Maritime English for engineers"
+      ],
+      "aliases": [
+        "Maritime English for engineers"
+      ]
+    },
+    {
+      "id": "gmu-044",
+      "number": 44,
+      "section": 1,
+      "name": "Английский язык для судовых механиков. Тестирование",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ]
+    },
+    {
+      "id": "gmu-045",
+      "number": 45,
+      "section": 1,
+      "name": "Английский язык для судовых электромехаников. Тестирование",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/6"
+      ]
+    },
+    {
+      "id": "gmu-046",
+      "number": 46,
+      "section": 1,
+      "name": "Тестирование операторов СУДС на знание английского языка",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-047",
+      "number": 47,
+      "section": 1,
+      "name": "Английский язык для рядового состава",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/4",
+        "II/5",
+        "III/4",
+        "III/5",
+        "III/7"
+      ]
+    },
+    {
+      "id": "gmu-048",
+      "number": 48,
+      "section": 1,
+      "name": "Английский язык для рядового состава. Тестирование",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/4",
+        "II/5",
+        "III/4",
+        "III/5",
+        "III/7"
+      ]
+    },
+    {
+      "id": "gmu-049",
+      "number": 49,
+      "section": 1,
+      "name": "Английский язык для лоцманов",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-050",
+      "number": 50,
+      "section": 1,
+      "name": "Тестирование морских лоцманов на знание английского языка",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-051",
+      "number": 51,
+      "section": 1,
+      "name": "Деловой английский язык для судоходного бизнеса",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-052",
+      "number": 52,
+      "section": 1,
+      "name": "Пользователь программы «AMOS Maintenance and Purchase»",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "AMOS"
+      ],
+      "aliases": [
+        "AMOS"
+      ]
+    },
+    {
+      "id": "gmu-053",
+      "number": 53,
+      "section": 1,
+      "name": "Требования МК МАРПОЛ 73/78 и ОРА 90",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "MARPOL",
+        "OPA 90"
+      ],
+      "aliases": [
+        "MARPOL",
+        "OPA 90"
+      ]
+    },
+    {
+      "id": "gmu-054",
+      "number": 54,
+      "section": 1,
+      "name": "Процедуры контроля судов государством порта и флага (для судового персонала)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Port State Control",
+        "Flag State Control"
+      ],
+      "aliases": [
+        "Port State Control",
+        "Flag State Control"
+      ]
+    },
+    {
+      "id": "gmu-055",
+      "number": 55,
+      "section": 1,
+      "name": "Профессиональная безопасность работы на судне",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "occupational safety"
+      ],
+      "aliases": [
+        "occupational safety"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11444/info/58_Safety_officer_%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BD%D0%B0_%D1%81%D1%83%D0%B4%D0%BD%D0%B5",
+      "sdoTitle": "Safety officer Профессиональная безопасность работы на судне",
+      "managerPhone": "+7 (8617) 76-79-93"
+    },
+    {
+      "id": "gmu-056",
+      "number": 56,
+      "section": 1,
+      "name": "Управление риском и расследование инцидентов",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "risk management",
+        "incident investigation"
+      ],
+      "aliases": [
+        "risk management",
+        "incident investigation"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/4412/info/72_%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%BC_%D0%B8__%D1%80%D0%B0%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%28%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81_%D0%98%D0%9C%D0%9E_311%29",
+      "sdoTitle": "Управление риском и расследование инцидентов (Модельный курс ИМО 311)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-057",
+      "number": 57,
+      "section": 1,
+      "name": "Управление ресурсами машинного отделения",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3",
+        "III/6"
+      ],
+      "keywords": [
+        "Engine Room Resource Management",
+        "ERM"
+      ],
+      "aliases": [
+        "Engine Room Resource Management",
+        "ERM"
+      ]
+    },
+    {
+      "id": "gmu-058",
+      "number": 58,
+      "section": 1,
+      "name": "Эксплуатация грузовых систем, оборудованных насосами с гидроприводом (FRAMO)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "FRAMO"
+      ],
+      "aliases": [
+        "FRAMO"
+      ]
+    },
+    {
+      "id": "gmu-059",
+      "number": 59,
+      "section": 1,
+      "name": "Подготовка персонала, участвующего в транспортировке опасных грузов в соответствии с требованиями раздела «C 49» Кодекса федеральных правил США",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "49 CFR"
+      ],
+      "aliases": [
+        "49 CFR"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11528/info/57_%D0%9E%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B3%D1%80%D1%83%D0%B7%D1%8B_%28%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D1%84%D0%B5%D0%B4_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB_%D0%A1%D0%A8%D0%90%29_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0%2C_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B5_%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D1%85_%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2_%D0%B2_%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8_%D1%81_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0_%D0%A1_49_%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B0_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB_%D0%A1%D0%A8%D0%90_%282%2C0%29",
+      "sdoTitle": "Опасные грузы (Кодекс фед правил США) Подготовка персонала, участвующего в транспортировке опасных грузов в соответствии с требованиями раздела С 49 Кодекса Федеральных правил США (2,0)",
+      "managerPhone": "+7 (8617) 76-79-93"
+    },
+    {
+      "id": "gmu-060",
+      "number": 60,
+      "section": 1,
+      "name": "Подготовка лиц командного и рядового состава, отвечающих за грузовые операции на судах, перевозящих опасные вещества навалом и в упаковке",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "dangerous goods",
+        "IMDG",
+        "dangerous, hazardous and harmful cargoes"
+      ],
+      "aliases": [
+        "dangerous goods",
+        "IMDG",
+        "dangerous, hazardous and harmful cargoes"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11529/info/56_%D0%9E%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE%D0%BC_%D0%B8_%D0%B2_%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D1%86_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8_%D1%80%D1%8F%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0%2C_%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D1%85_%D0%B7%D0%B0_%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D1%81%D1%83%D0%B4%D0%B0%D1%85%2C_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D1%8F%D1%89%D0%B8%D1%85_%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE%D0%BC_%D0%B8_%D0%B2_%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5_%2820%29",
+      "sdoTitle": "Опасные вещества навалом и в упаковке Подготовка лиц командного и рядового состава, отвечающих за грузовые операции на судах, перевозящих опасные вещества навалом и в упаковке (20)",
+      "managerPhone": "+7 (8617) 76-79-93"
+    },
+    {
+      "id": "gmu-061",
+      "number": 61,
+      "section": 1,
+      "name": "Подготовка в отношении управления и поведения человека в критических ситуациях для пассажирских судов",
+      "description": "В соответствии с пунктом 4 раздела A-V/2 Кодекса ПДНВ (пункт 8 Правила V/2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "crisis management and human behaviour",
+        "crisis management and human behavior"
+      ],
+      "aliases": [
+        "crisis management and human behaviour",
+        "crisis management and human behavior"
+      ]
+    },
+    {
+      "id": "gmu-062",
+      "number": 62,
+      "section": 1,
+      "name": "Подготовка по управлению неорганизованной массой людей на пассажирских судах",
+      "description": "В соответствии с пунктом 3 раздела A-V/2 Кодекса ПДНВ (пункт 7 Правила V/2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "crowd management"
+      ],
+      "aliases": [
+        "crowd management"
+      ]
+    },
+    {
+      "id": "gmu-063",
+      "number": 63,
+      "section": 1,
+      "name": "Подготовка по вопросам безопасности для пассажирских судов",
+      "description": "В соответствии с пунктом 2 раздела A-V/2 Кодекса ПДНВ (пункт 6 Правила V/2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "passenger ship safety training"
+      ],
+      "aliases": [
+        "passenger ship safety training"
+      ]
+    },
+    {
+      "id": "gmu-064",
+      "number": 64,
+      "section": 1,
+      "name": "Подготовка по вопросам безопасности пассажиров и груза, а также водонепроницаемости корпуса для пассажирских судов",
+      "description": "В соответствии с пунктом 5 раздела A-V/2 Кодекса ПДНВ (пункт 9 Правила V/2 Конвенции ПДНВ)",
+      "stcwCode": "A-V/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "passenger safety, cargo safety and hull integrity"
+      ],
+      "aliases": [
+        "passenger safety, cargo safety and hull integrity"
+      ]
+    },
+    {
+      "id": "gmu-065",
+      "number": 65,
+      "section": 1,
+      "name": "Программа повышения квалификации в отношении управления и поведения человека в критических ситуациях (повторно для пассажирских судов)",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "crisis management and human behaviour"
+      ],
+      "aliases": [
+        "crisis management and human behaviour"
+      ]
+    },
+    {
+      "id": "gmu-066",
+      "number": 66,
+      "section": 1,
+      "name": "Программа повышения квалификации по вопросам безопасности пассажиров и груза, а также водонепроницаемости корпуса (повторно для пассажирских судов)",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [],
+      "keywords": [
+        "passenger safety, cargo safety and hull integrity"
+      ],
+      "aliases": [
+        "passenger safety, cargo safety and hull integrity"
+      ]
+    },
+    {
+      "id": "gmu-067",
+      "number": 67,
+      "section": 1,
+      "name": "Ознакомительная подготовка судового / берегового персонала по Конвенции о труде в морском судоходстве 2006 г.",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "Maritime Labour Convention",
+        "MLC 2006"
+      ],
+      "aliases": [
+        "Maritime Labour Convention",
+        "MLC 2006"
+      ]
+    },
+    {
+      "id": "gmu-068",
+      "number": 68,
+      "section": 1,
+      "name": "Международный кодекс по управлению безопасностью",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "ISM Code",
+        "International Safety Management"
+      ],
+      "aliases": [
+        "ISM Code",
+        "International Safety Management"
+      ]
+    },
+    {
+      "id": "gmu-069",
+      "number": 69,
+      "section": 1,
+      "name": "Газоанализаторы, системы газоанализа. Использование, калибровка, обслуживание",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "gas detectors",
+        "gas detection"
+      ],
+      "aliases": [
+        "gas detectors",
+        "gas detection"
+      ]
+    },
+    {
+      "id": "gmu-070",
+      "number": 70,
+      "section": 2,
+      "name": "Ледовое плавание",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "ice navigation"
+      ],
+      "aliases": [
+        "ice navigation"
+      ]
+    },
+    {
+      "id": "gmu-071",
+      "number": 71,
+      "section": 2,
+      "name": "Организация ходовой навигационной вахты и управление ресурсами мостика",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Bridge Resource Management",
+        "Bridge Team Management",
+        "BRM"
+      ],
+      "aliases": [
+        "Организация ходовой навигационной вахты",
+        "Bridge Team Training and Resource Management",
+        "Bridge Team Management",
+        "Bridge Resource Management",
+        "BRM",
+        "BTM"
+      ]
+    },
+    {
+      "id": "gmu-072",
+      "number": 72,
+      "section": 2,
+      "name": "Лидерство и работа в команде",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3",
+        "III/1",
+        "III/2",
+        "III/3",
+        "III/6"
+      ],
+      "keywords": [
+        "Leadership and teamwork"
+      ],
+      "aliases": [
+        "Leadership and teamwork"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10853/info/68_%D0%9B%D0%B8%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5_%28%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D1%80%D1%81_%D0%98%D0%9C%D0%9E_139%29",
+      "sdoTitle": "Лидерство и работа в команде (Модельный курс ИМО 139)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-073",
+      "number": 73,
+      "section": 2,
+      "name": "Маневрирование и управление судном",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "ship handling",
+        "shiphandling"
+      ],
+      "aliases": [
+        "ship handling",
+        "shiphandling"
+      ]
+    },
+    {
+      "id": "gmu-074",
+      "number": 74,
+      "section": 2,
+      "name": "Начальная подготовка для судов, эксплуатирующихся в полярных водах",
+      "description": "В соответствии с пунктом 1 раздела A-V/4 Кодекса ПДНВ (пункт 2 Правила V/4 Конвенции ПДНВ)",
+      "stcwCode": "A-V/4",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Basic training for ships operating in polar waters",
+        "Polar Code basic"
+      ],
+      "aliases": [
+        "Basic training for ships operating in polar waters",
+        "Polar Code basic"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/4320/info/52_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%B0%D1%85",
+      "sdoTitle": "Начальная подготовка по плаванию в полярных водах",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-075",
+      "number": 75,
+      "section": 2,
+      "name": "Подготовка по расширенной программе для судов, эксплуатирующихся в полярных водах",
+      "description": "В соответствии с пунктом 2 раздела A-V/4 Кодекса ПДНВ (пункт 4.3 Правила V/4 Конвенции ПДНВ)",
+      "stcwCode": "A-V/4",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "Advanced training for ships operating in polar waters",
+        "Polar Code advanced"
+      ],
+      "aliases": [
+        "Advanced training for ships operating in polar waters",
+        "Polar Code advanced"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/4321/info/53_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%B0%D1%85",
+      "sdoTitle": "Расширенная подготовка по плаванию в полярных водах",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-076",
+      "number": 76,
+      "section": 2,
+      "name": "Программа повышения квалификации по должности специалиста с начальной подготовкой для работы на судах, эксплуатирующихся в полярных водах",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10670/info/54_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%B0%D1%85_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%29",
+      "sdoTitle": "Повышение квалификации Начальная подготовка по плаванию полярных водах (повторная подготовка)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-077",
+      "number": 77,
+      "section": 2,
+      "name": "Программа повышения квалификации по должности специалиста с расширенной подготовкой для работы на судах, эксплуатирующихся в полярных водах",
+      "categories": [
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10671/info/55_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%B0%D1%85_%28%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%29",
+      "sdoTitle": "Повышение квалификации Расширенная подготовка по плаванию в полярных водах (повторная подготовка)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-078",
+      "number": 78,
+      "section": 2,
+      "name": "Подготовка по использованию радиолокационной станции (РЛС)",
+      "description": "Таблица A-II/1 Кодекса ПДНВ",
+      "stcwCode": "A-II/1",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "radar navigation",
+        "radar observation and plotting"
+      ],
+      "aliases": [
+        "radar navigation",
+        "radar observation and plotting"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10433/info/25_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%A0%D0%9B%D0%A1_%2830%29",
+      "sdoTitle": "Подготовка по РЛС (30)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-079",
+      "number": 79,
+      "section": 2,
+      "name": "Подготовка по использованию системы автоматической радиолокационной прокладки (САРП)",
+      "description": "Таблица A-II/1 Кодекса ПДНВ",
+      "stcwCode": "A-II/1",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "ARPA",
+        "automatic radar plotting aids"
+      ],
+      "aliases": [
+        "ARPA",
+        "automatic radar plotting aids"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10432/info/26_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%A1%D0%90%D0%A0%D0%9F_%2830%29",
+      "sdoTitle": "Подготовка по САРП (30)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-080",
+      "number": 80,
+      "section": 2,
+      "name": "Подготовка по использованию электронной картографической навигационной информационной системы (ЭКНИС)",
+      "description": "Таблица A-II/1 Кодекса ПДНВ",
+      "stcwCode": "A-II/1",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "ECDIS",
+        "electronic chart display"
+      ],
+      "aliases": [
+        "ECDIS",
+        "electronic chart display"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11607/info/27_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%AD%D0%9A%D0%9D%D0%98%D0%A1_%2820%29",
+      "sdoTitle": "Подготовка по ЭКНИС (20)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-081",
+      "number": 81,
+      "section": 2,
+      "name": "Подготовка старшего помощника капитана для лиц с высшим образованием (3000 и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для старшего помощника капитана морского судна валовой вместимостью 3000 и более (пункт 2.2 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "chief mate"
+      ],
+      "aliases": [
+        "chief mate"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12047/info/31_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%92%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка СПКМ на базе ВО (2,0)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-082",
+      "number": 82,
+      "section": 2,
+      "name": "Подготовка старшего помощника капитана для лиц со средним образованием (3000 и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для старшего помощника капитана морского судна валовой вместимостью 3000 и более (пункт 2.2 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "chief mate"
+      ],
+      "aliases": [
+        "chief mate"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12741/info/32_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%A1%D0%9F%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка СПКМ на базе СПО (2,0)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-083",
+      "number": 83,
+      "section": 2,
+      "name": "Подготовка старшего помощника капитана для лиц с высшим образованием (от 500 до 3000)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для старших помощников капитана морского судна валовой вместимостью от 500 до 3000 (пункт 4.3 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "chief mate"
+      ],
+      "aliases": [
+        "chief mate"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12047/info/31_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%92%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка СПКМ на базе ВО (2,0)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-084",
+      "number": 84,
+      "section": 2,
+      "name": "Подготовка старшего помощника капитана для лиц со средним образованием (от 500 до 3000)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для старших помощников капитана морского судна валовой вместимостью от 500 до 3000 (пункт 4.3 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "chief mate"
+      ],
+      "aliases": [
+        "chief mate"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12741/info/32_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%A1%D0%9F%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка СПКМ на базе СПО (2,0)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-085",
+      "number": 85,
+      "section": 2,
+      "name": "Подготовка капитана для лиц с высшим образованием (3000 и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для капитана морского судна валовой вместимостью 3000 и более (пункт 2.2 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "master"
+      ],
+      "aliases": [
+        "master"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11912/info/28_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%92%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка КМ на базе ВО (2,0)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-086",
+      "number": 86,
+      "section": 2,
+      "name": "Подготовка капитана для лиц со средним образованием (3000 и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для капитана морского судна валовой вместимостью 3000 и более (пункт 2.2 Правила II/2 Конвенции ПДНВ)",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "master"
+      ],
+      "aliases": [
+        "master"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12737/info/29_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%A1%D0%9F%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка КМ на базе СПО (2,0)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-087",
+      "number": 87,
+      "section": 2,
+      "name": "Подготовка капитана для лиц с высшим образованием (от 500 до 3000)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для капитана морского судна валовой вместимостью от 500 до 3000",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "master"
+      ],
+      "aliases": [
+        "master"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11912/info/28_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%92%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка КМ на базе ВО (2,0)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-088",
+      "number": 88,
+      "section": 2,
+      "name": "Подготовка капитана для лиц со средним образованием (от 500 до 3000)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/2 Кодекса ПДНВ для капитана морского судна валовой вместимостью от 500 до 3000",
+      "stcwCode": "A-II/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "keywords": [
+        "master"
+      ],
+      "aliases": [
+        "master"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12737/info/29_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%A1%D0%9F%D0%9E_%282%2C0%29",
+      "sdoTitle": "Подготовка КМ на базе СПО (2,0)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-089",
+      "number": 89,
+      "section": 2,
+      "name": "Подготовка капитана прибрежного плавания",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-II/3 Кодекса ПДНВ для капитана морского судна валовой вместимостью менее 500, занятого в прибрежном плавании (пункт 6.3 Правила II/3 Конвенции ПДНВ)",
+      "stcwCode": "A-II/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/3"
+      ],
+      "keywords": [
+        "near-coastal voyages"
+      ],
+      "aliases": [
+        "near-coastal voyages"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/7979/info/30_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9A%D0%9C_%D0%BF%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2C_%D0%92%D0%92_%D0%B4%D0%BE_500",
+      "sdoTitle": "Подготовка КМ прибрежного плавания, ВВ до 500",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-090",
+      "number": 90,
+      "section": 2,
+      "name": "Подготовка судоводителя уровня эксплуатации при длительном перерыве в работе по должности",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "II/1",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/9417/info/42_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%B2%D0%B0%D1%85%D1%82%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%2820%29",
+      "sdoTitle": "Восстановление диплома вахтенного помощника капитана (20)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-091",
+      "number": 91,
+      "section": 2,
+      "name": "Подготовка судоводителя уровня управления при длительном перерыве в работе по должности для лиц с высшим образованием",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/9418/info/40_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%9A%D0%9C%2C_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%92%D0%9E_%2820%29",
+      "sdoTitle": "Восстановление диплома КМ, СПКМ на базе ВО (20)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-092",
+      "number": 92,
+      "section": 2,
+      "name": "Подготовка судоводителя уровня управления при длительном перерыве в работе по должности для лиц со средним образованием",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/9419/info/41_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%9A%D0%9C%2C_%D0%A1%D0%9F%D0%9A%D0%9C_%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B5_%D0%A1%D0%9F%D0%9E_%2820%29",
+      "sdoTitle": "Восстановление диплома КМ, СПКМ на базе СПО (20)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-093",
+      "number": 93,
+      "section": 2,
+      "name": "Подготовка вахтенного помощника капитана морского судна валовой вместимостью 500 и более, имеющего военно-морское образование",
+      "description": "Раздел A-II/1 Кодекса ПДНВ",
+      "stcwCode": "A-II/1",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1"
+      ]
+    },
+    {
+      "id": "gmu-094",
+      "number": 94,
+      "section": 2,
+      "name": "Продление диплома вахтенного помощника капитана (500 и более)",
+      "description": "Программа повышения квалификации по должности вахтенного помощника капитана морского судна валовой вместимостью 500 и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/1"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12512/info/21_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%92%D0%9F%D0%9A%D0%9C_%2840%29",
+      "sdoTitle": "Продление диплома ВПКМ (40)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-095",
+      "number": 95,
+      "section": 2,
+      "name": "Продление диплома вахтенного помощника капитана, занятого в прибрежном плавании",
+      "description": "Программа повышения квалификации по должности вахтенного помощника капитана морского судна валовой вместимостью менее 500, занятого в прибрежном плавании (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/3"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ]
+    },
+    {
+      "id": "gmu-096",
+      "number": 96,
+      "section": 2,
+      "name": "Продление диплома старшего помощника капитана (3000 и более)",
+      "description": "Программа повышения квалификации по должности старшего помощника капитана морского судна валовой вместимостью 3000 и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12511/info/20_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%2840%29",
+      "sdoTitle": "Продление диплома СПКМ (40)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-097",
+      "number": 97,
+      "section": 2,
+      "name": "Продление диплома старшего помощника капитана (от 500 до 3000)",
+      "description": "Программа повышения квалификации по должности старшего помощника капитана морского судна валовой вместимостью от 500 до 3000 (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12511/info/20_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%A1%D0%9F%D0%9A%D0%9C_%2840%29",
+      "sdoTitle": "Продление диплома СПКМ (40)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-098",
+      "number": 98,
+      "section": 2,
+      "name": "Продление диплома капитана (3000 и более)",
+      "description": "Программа повышения квалификации по должности капитана морского судна валовой вместимостью 3000 и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12068/info/19_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%9A%D0%9C_%2840%29",
+      "sdoTitle": "Продление диплома КМ (40)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-099",
+      "number": 99,
+      "section": 2,
+      "name": "Продление диплома капитана (от 500 до 3000)",
+      "description": "Программа повышения квалификации по должности капитана морского судна валовой вместимостью от 500 до 3000 (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12068/info/19_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%9A%D0%9C_%2840%29",
+      "sdoTitle": "Продление диплома КМ (40)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-100",
+      "number": 100,
+      "section": 2,
+      "name": "Продление диплома капитана прибрежного плавания",
+      "description": "Программа повышения квалификации по должности капитана морского судна валовой вместимостью менее 500, занятого в прибрежном плавании (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "II/3"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ]
+    },
+    {
+      "id": "gmu-101",
+      "number": 101,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только стоечные суда»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8078/info/76_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D1%81%D1%82%D0%BE%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D1%81%D1%83%D0%B4%D0%B0%C2%BB",
+      "sdoTitle": "Снятие ограничения «только стоечные суда»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-102",
+      "number": 102,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только прибрежное плавание»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8082/info/74_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%BF%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%C2%BB",
+      "sdoTitle": "Снятие ограничения «только прибрежное плавание»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-103",
+      "number": 103,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только несамоходные суда»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8079/info/78_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%BD%D0%B5%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%81%D1%83%D0%B4%D0%B0%C2%BB",
+      "sdoTitle": "Снятие ограничения «только несамоходные суда»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-104",
+      "number": 104,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только рыбопромысловое судно»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8080/info/75_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D1%80%D1%8B%D0%B1%D0%BE%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D1%83%D0%B4%D0%BD%D0%BE%C2%BB",
+      "sdoTitle": "Снятие ограничения «только рыбопромысловое судно»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-105",
+      "number": 105,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только не суда, перевозящие грузы»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8081/info/77_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%BD%D0%B5_%D1%81%D1%83%D0%B4%D0%B0%2C_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D1%8F%D1%89%D0%B8%D0%B5_%D0%B3%D1%80%D1%83%D0%B7%D1%8B%C2%BB",
+      "sdoTitle": "Снятие ограничения «только не суда, перевозящие грузы»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-106",
+      "number": 106,
+      "section": 2,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только портовое плавание»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8083/info/73_%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%C2%BB",
+      "sdoTitle": "Снятие ограничения «только портовое плавание»",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-107",
+      "number": 107,
+      "section": 2,
+      "name": "Программа подготовки по эксплуатации главной двигательной установки на судах без несения машинной вахты с соответствующим классом автоматизации",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ]
+    },
+    {
+      "id": "gmu-108",
+      "number": 108,
+      "section": 2,
+      "name": "Курсы повышения квалификации морских лоцманов",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-109",
+      "number": 109,
+      "section": 2,
+      "name": "Маневрирование при швартовке судна к судну",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "ship to ship",
+        "STS"
+      ],
+      "aliases": [
+        "ship to ship",
+        "STS"
+      ]
+    },
+    {
+      "id": "gmu-110",
+      "number": 110,
+      "section": 2,
+      "name": "Швартовка крупнотоннажных судов к монобую",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "single point mooring",
+        "SPM"
+      ],
+      "aliases": [
+        "single point mooring",
+        "SPM"
+      ]
+    },
+    {
+      "id": "gmu-111",
+      "number": 111,
+      "section": 2,
+      "name": "Швартовка крупнотоннажных судов к причалу с использованием лазерных систем",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ]
+    },
+    {
+      "id": "gmu-112",
+      "number": 112,
+      "section": 2,
+      "name": "Старший оператор СУДС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "VTS supervisor"
+      ],
+      "aliases": [
+        "VTS supervisor"
+      ]
+    },
+    {
+      "id": "gmu-113",
+      "number": 113,
+      "section": 2,
+      "name": "Повышение квалификации старших операторов СУДС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "VTS supervisor"
+      ],
+      "aliases": [
+        "VTS supervisor"
+      ]
+    },
+    {
+      "id": "gmu-114",
+      "number": 114,
+      "section": 2,
+      "name": "Оператор СУДС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "VTS operator"
+      ],
+      "aliases": [
+        "VTS operator"
+      ]
+    },
+    {
+      "id": "gmu-115",
+      "number": 115,
+      "section": 2,
+      "name": "Повышение квалификации операторов СУДС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "VTS operator"
+      ],
+      "aliases": [
+        "VTS operator"
+      ]
+    },
+    {
+      "id": "gmu-116",
+      "number": 116,
+      "section": 2,
+      "name": "Подготовка (переподготовка) инженерно-технического персонала СУДС",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-117",
+      "number": 117,
+      "section": 2,
+      "name": "Выполнение портовых операций судами с азимутальными движетелями",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "azimuth",
+        "ASD tug"
+      ],
+      "aliases": [
+        "azimuth",
+        "ASD tug"
+      ]
+    },
+    {
+      "id": "gmu-118",
+      "number": 118,
+      "section": 2,
+      "name": "Подготовка оператора ГМССБ",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-IV/2 Кодекса ПДНВ (пункт 2.2 Правила IV/2 Конвенции ПДНВ)",
+      "stcwCode": "A-IV/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "aliases": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ]
+    },
+    {
+      "id": "gmu-119",
+      "number": 119,
+      "section": 2,
+      "name": "Подготовка оператора ГМССБ при наличии диплома оператора ограниченного района ГМССБ",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-IV/2 Кодекса ПДНВ (пункт 2.2 Правила IV/2 Конвенции ПДНВ)",
+      "stcwCode": "A-IV/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "aliases": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/6737/info/24_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81_RO%D0%A1_%D0%BD%D0%B0_GOC",
+      "sdoTitle": "Подготовка с ROС на GOC",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-120",
+      "number": 120,
+      "section": 2,
+      "name": "Подготовка оператора ограниченного района ГМССБ",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-IV/2 Кодекса ПДНВ (пункт 2.2 Правила IV/2 Конвенции ПДНВ)",
+      "stcwCode": "A-IV/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ],
+      "aliases": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ]
+    },
+    {
+      "id": "gmu-121",
+      "number": 121,
+      "section": 2,
+      "name": "Продление диплома оператора ограниченного района ГМССБ",
+      "description": "Программа повышения квалификации по должности оператора ограниченного района ГМССБ",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ],
+      "aliases": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/13401/info/23_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_ROC_%2820%29",
+      "sdoTitle": "Продление диплома ROC (20)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-122",
+      "number": 122,
+      "section": 2,
+      "name": "Подготовка оператора ГМССБ при длительном перерыве в работе",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "aliases": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/6738/info/43_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_GOC",
+      "sdoTitle": "Восстановление диплома GOC",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-123",
+      "number": 123,
+      "section": 2,
+      "name": "Продление диплома оператора ГМССБ",
+      "description": "Программа повышения квалификации по должности оператора ГМССБ",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "aliases": [
+        "GMDSS General Operator",
+        "General Operator's Certificate",
+        "GOC"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/10304/info/22_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_GOC_%2820%29",
+      "sdoTitle": "Продление диплома GOC (20)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-124",
+      "number": 124,
+      "section": 2,
+      "name": "Подготовка оператора ограниченного района ГМССБ при длительном перерыве в работе",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ],
+      "aliases": [
+        "GMDSS Restricted Operator",
+        "Restricted Operator's Certificate",
+        "ROC"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/6740/info/44_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_ROC",
+      "sdoTitle": "Восстановление диплома ROC",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-125",
+      "number": 125,
+      "section": 2,
+      "name": "Продление диплома оператора радиоэлектронного оборудования второго класса ГМССБ",
+      "description": "Программа повышения квалификации по должности оператора радиоэлектронного оборудования второго класса ГМССБ",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS radio electronic certificate",
+        "second class"
+      ],
+      "aliases": [
+        "GMDSS radio electronic certificate",
+        "second class"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8269/info/67_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%A0%D0%AD_2%D0%BA%D0%BB_%D0%93%D0%9C%D0%A1%D0%A1%D0%91",
+      "sdoTitle": "Продление диплома РЭ 2кл ГМССБ",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-126",
+      "number": 126,
+      "section": 2,
+      "name": "Продление диплома оператора радиоэлектронного оборудования первого класса ГМССБ",
+      "description": "Программа повышения квалификации по должности оператора радиоэлектронного оборудования первого класса ГМССБ",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "IV/2"
+      ],
+      "keywords": [
+        "GMDSS radio electronic certificate",
+        "first class"
+      ],
+      "aliases": [
+        "GMDSS radio electronic certificate",
+        "first class"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8258/info/66_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0_%D0%A0%D0%AD_1%D0%BA%D0%BB_%D0%93%D0%9C%D0%A1%D0%A1%D0%91",
+      "sdoTitle": "Продление диплома РЭ 1кл ГМССБ",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-127",
+      "number": 127,
+      "section": 2,
+      "name": "Подготовка оператора радиоэлектронного оборудования второго класса ГМССБ при длительном перерыве в работе",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "IV/2"
+      ]
+    },
+    {
+      "id": "gmu-128",
+      "number": 128,
+      "section": 2,
+      "name": "Подготовка оператора радиоэлектронного оборудования первого класса ГМССБ при длительном перерыве в работе",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "IV/2"
+      ]
+    },
+    {
+      "id": "gmu-129",
+      "number": 129,
+      "section": 2,
+      "name": "Подготовка квалифицированного специалиста по настройке магнитного компаса",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "magnetic compass adjuster"
+      ],
+      "aliases": [
+        "magnetic compass adjuster"
+      ]
+    },
+    {
+      "id": "gmu-130",
+      "number": 130,
+      "section": 2,
+      "name": "Подготовка специалистов по уничтожению девиации магнитных компасов",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "compass deviation"
+      ],
+      "aliases": [
+        "compass deviation"
+      ]
+    },
+    {
+      "id": "gmu-131",
+      "number": 131,
+      "section": 2,
+      "name": "Кибербезопасность судовых систем",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "cyber security",
+        "cybersecurity"
+      ],
+      "aliases": [
+        "cyber security",
+        "cybersecurity"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11189/info/59_%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC",
+      "sdoTitle": "Кибербезопасность судовых систем"
+    },
+    {
+      "id": "gmu-132",
+      "number": 132,
+      "section": 2,
+      "name": "Использование судовых автоматических идентификационных систем",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/1",
+        "II/2",
+        "II/3"
+      ],
+      "keywords": [
+        "AIS",
+        "automatic identification system"
+      ],
+      "aliases": [
+        "AIS",
+        "automatic identification system"
+      ]
+    },
+    {
+      "id": "gmu-133",
+      "number": 133,
+      "section": 3,
+      "name": "Подготовка второго механика для лиц с высшим образованием (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для второго механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "second engineer"
+      ],
+      "aliases": [
+        "second engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12310/info/38_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B5_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2C_30%29",
+      "sdoTitle": "Подготовка второго механика (для лиц, имеющих высшее образование, 30)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-134",
+      "number": 134,
+      "section": 3,
+      "name": "Подготовка второго механика для лиц со средним образованием (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для второго механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "second engineer"
+      ],
+      "aliases": [
+        "second engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8851/info/39_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86_%D1%81%D0%BE_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%BC_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%2C_30%29",
+      "sdoTitle": "Подготовка второго механика (для лиц со средним образованием, 30)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-135",
+      "number": 135,
+      "section": 3,
+      "name": "Подготовка второго механика для лиц, имеющих диплом второго механика от 750 до 3000 кВт (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для второго механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "second engineer"
+      ],
+      "aliases": [
+        "second engineer"
+      ]
+    },
+    {
+      "id": "gmu-136",
+      "number": 136,
+      "section": 3,
+      "name": "Подготовка второго механика для лиц с высшим образованием (от 750 до 3000 кВт)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/3 Кодекса ПДНВ для второго механика морского судна с главной двигательной установкой от 750 до 3000 кВт (пункт 2.2 Правила III/3 Конвенции ПДНВ)",
+      "stcwCode": "A-III/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "keywords": [
+        "second engineer"
+      ],
+      "aliases": [
+        "second engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12310/info/38_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B5_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2C_30%29",
+      "sdoTitle": "Подготовка второго механика (для лиц, имеющих высшее образование, 30)",
+      "educationLevel": "ВО",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-137",
+      "number": 137,
+      "section": 3,
+      "name": "Подготовка второго механика для лиц со средним образованием (от 750 до 3000 кВт)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/3 Кодекса ПДНВ для второго механика морского судна с главной двигательной установкой от 750 до 3000 кВт (пункт 2.2 Правила III/3 Конвенции ПДНВ)",
+      "stcwCode": "A-III/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "keywords": [
+        "second engineer"
+      ],
+      "aliases": [
+        "second engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8851/info/39_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86_%D1%81%D0%BE_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%BC_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%2C_30%29",
+      "sdoTitle": "Подготовка второго механика (для лиц со средним образованием, 30)",
+      "educationLevel": "СПО",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-138",
+      "number": 138,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц с высшим образованием, имеющих диплом вахтенного механика (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "educationLevel": "ВО"
+    },
+    {
+      "id": "gmu-139",
+      "number": 139,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц со средним образованием (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "educationLevel": "СПО"
+    },
+    {
+      "id": "gmu-140",
+      "number": 140,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц, имеющих диплом судового механика уровня управления от 750 до 3000 кВт (3000 кВт и более)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/2 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой 3000 кВт и более (пункт 2.2 Правила III/2 Конвенции ПДНВ)",
+      "stcwCode": "A-III/2",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12055/info/37_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D1%85_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2__%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%2C_30%29",
+      "sdoTitle": "Подготовка старших механиков (для лиц, имеющих диплом судового механика уровня управления, 30)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-141",
+      "number": 141,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц с высшим образованием, имеющих диплом вахтенного механика (от 750 до 3000 кВт)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/3 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой от 750 до 3000 кВт (пункт 2.2 Правила III/3 Конвенции ПДНВ)",
+      "stcwCode": "A-III/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "educationLevel": "ВО"
+    },
+    {
+      "id": "gmu-142",
+      "number": 142,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц со средним образованием (от 750 до 3000 кВт)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/3 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой от 750 до 3000 кВт (пункт 2.2 Правила III/3 Конвенции ПДНВ)",
+      "stcwCode": "A-III/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "educationLevel": "СПО"
+    },
+    {
+      "id": "gmu-143",
+      "number": 143,
+      "section": 3,
+      "name": "Подготовка старшего механика для лиц, имеющих диплом второго механика (от 750 до 3000 кВт)",
+      "description": "Программа ДПО в соответствии с требованиями раздела A-III/3 Кодекса ПДНВ для старшего механика морского судна с главной двигательной установкой от 750 до 3000 кВт (пункт 2.2 Правила III/3 Конвенции ПДНВ)",
+      "stcwCode": "A-III/3",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "keywords": [
+        "chief engineer"
+      ],
+      "aliases": [
+        "chief engineer"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/12055/info/37_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D1%85_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2__%28%D0%B4%D0%BB%D1%8F_%D0%BB%D0%B8%D1%86%2C_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%2C_30%29",
+      "sdoTitle": "Подготовка старших механиков (для лиц, имеющих диплом судового механика уровня управления, 30)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-144",
+      "number": 144,
+      "section": 3,
+      "name": "Продление диплома вахтенного механика (750 кВт и более)",
+      "description": "Программа повышения квалификации по должности вахтенного механика морского судна с главной двигательной установкой мощностью 750 кВт и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/1"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11478/info/35_%D0%92%D0%B0%D1%85%D1%82%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2%D0%B0%D1%85%D1%82%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_30_%282025%29",
+      "sdoTitle": "Вахтенный механик Продление Повышение квалификации вахтенного механика морского судна 30 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-145",
+      "number": 145,
+      "section": 3,
+      "name": "Продление диплома второго механика (3000 кВт и более)",
+      "description": "Программа повышения квалификации по должности второго механика морского судна с главной двигательной установкой 3000 кВт и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11783/info/34_%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_30_%282025%29",
+      "sdoTitle": "Второй механик Продление Повышение квалификации второго механика морского судна 30 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-146",
+      "number": 146,
+      "section": 3,
+      "name": "Продление диплома старшего механика (3000 кВт и более)",
+      "description": "Программа повышения квалификации по должности старшего механика морского судна с главной двигательной установкой 3000 кВт и более (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/2"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11145/info/33_%D0%A1%D1%82%D0%B0%D1%80%D0%BC%D0%B5%D1%85_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_3%2C0_%282025%29",
+      "sdoTitle": "Стармех Продление Повышение квалификации старшего механика морского судна 3,0 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-147",
+      "number": 147,
+      "section": 3,
+      "name": "Продление диплома второго механика (от 750 до 3000 кВт)",
+      "description": "Программа повышения квалификации по должности второго механика морского судна с главной двигательной установкой от 750 до 3000 кВт (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11783/info/34_%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_30_%282025%29",
+      "sdoTitle": "Второй механик Продление Повышение квалификации второго механика морского судна 30 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-148",
+      "number": 148,
+      "section": 3,
+      "name": "Продление диплома старшего механика (от 750 до 3000 кВт)",
+      "description": "Программа повышения квалификации по должности старшего механика морского судна с главной двигательной установкой от 750 до 3000 кВт (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/3"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11145/info/33_%D0%A1%D1%82%D0%B0%D1%80%D0%BC%D0%B5%D1%85_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_3%2C0_%282025%29",
+      "sdoTitle": "Стармех Продление Повышение квалификации старшего механика морского судна 3,0 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-149",
+      "number": 149,
+      "section": 3,
+      "name": "Подготовка судового механика уровня эксплуатации при длительном перерыве в работе по должности",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "III/1"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/9755/info/46_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D1%85_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F_%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D1%80%D0%B8_%D0%B4%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC_%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B5_%D0%B2_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%2820%29",
+      "sdoTitle": "Подготовка судовых механиков уровня эксплуатации при длительном перерыве в работе по должности (20)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-150",
+      "number": 150,
+      "section": 3,
+      "name": "Подготовка судового механика уровня управления при длительном перерыве в работе по должности",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "III/2",
+        "III/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/9760/info/45_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8_%D0%B4%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC_%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B5_%D0%B2_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%2820%29",
+      "sdoTitle": "Подготовка судового механика уровня управления при длительном перерыве в работе по должности (20)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-151",
+      "number": 151,
+      "section": 3,
+      "name": "Подготовка вахтенного механика морского судна с главной двигательной установкой мощностью 750 кВт и более, имеющего военно-морское образование",
+      "description": "Пункт 2.2 Правила III/1 Конвенции ПДНВ",
+      "stcwCode": "III/1",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1"
+      ]
+    },
+    {
+      "id": "gmu-152",
+      "number": 152,
+      "section": 3,
+      "name": "Тренажёр машинного отделения",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "engine room simulator"
+      ],
+      "aliases": [
+        "engine room simulator"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/6371/info/70_%D0%A2%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F__Engine_Room_Simulator",
+      "sdoTitle": "Тренажер машинного отделения Engine Room Simulator",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-153",
+      "number": 153,
+      "section": 3,
+      "name": "Тренажёр машинного отделения, включая управление ресурсами",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "engine room simulator",
+        "Engine Room Resource Management"
+      ],
+      "aliases": [
+        "engine room simulator",
+        "Engine Room Resource Management"
+      ]
+    },
+    {
+      "id": "gmu-154",
+      "number": 154,
+      "section": 3,
+      "name": "Дополнительная подготовка судового механика для работы на судах с главной ПТУ",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "steam turbine"
+      ],
+      "aliases": [
+        "steam turbine"
+      ]
+    },
+    {
+      "id": "gmu-155",
+      "number": 155,
+      "section": 3,
+      "name": "Дополнительная подготовка судового механика для работы на судах с главной ГТУ",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "gas turbine"
+      ],
+      "aliases": [
+        "gas turbine"
+      ]
+    },
+    {
+      "id": "gmu-156",
+      "number": 156,
+      "section": 3,
+      "name": "Продление диплома электромеханика (более 750 кВт)",
+      "description": "Программа повышения квалификации по должности электромеханика морского судна с главной двигательной установкой более 750 кВт (с выдачей свидетельств по первой помощи, специалиста по шлюпкам и плотам, по борьбе с пожаром по расширенной программе)",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [
+        "III/6"
+      ],
+      "keywords": [
+        "electro-technical officer",
+        "ETO"
+      ],
+      "aliases": [
+        "electro-technical officer",
+        "ETO"
+      ],
+      "includes": [
+        "VI/4-1",
+        "VI/2-1",
+        "VI/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11787/info/36_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_30_%282025%29",
+      "sdoTitle": "Электромеханик Продление Повышение квалификации по должности электромеханика морского судна 30 (2025)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-157",
+      "number": 157,
+      "section": 3,
+      "name": "Подготовка электромеханика морского судна с главной двигательной установкой более 750 кВт при длительном перерыве в работе",
+      "categories": [
+        "longBreak"
+      ],
+      "functions": [
+        "III/6"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/8249/info/47_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA_%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D1%8B%D0%B2_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%B0_%D1%81_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_750_%D0%BA%D0%92%D1%82_%D0%BF%D1%80%D0%B8_%D0%B4%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC_%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B5_%D0%B2_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5",
+      "sdoTitle": "Электромеханик Длительный перерыв Подготовка электромеханика морского суда с главной двигательной установкой более 750 кВт при длительном перерыве в работе",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-158",
+      "number": 158,
+      "section": 3,
+      "name": "Подготовка электромеханика морского судна с главной двигательной установкой более 750 кВт, имеющего военно-морское образование",
+      "description": "Правило III/6 Конвенции ПДНВ",
+      "stcwCode": "III/6",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/6"
+      ]
+    },
+    {
+      "id": "gmu-159",
+      "number": 159,
+      "section": 3,
+      "name": "Восстановительная подготовка для работы на судах без ограничения «только не суда с паросиловой главной двигательной установкой»",
+      "categories": [
+        "restoration"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11479/info/62_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BD%D0%B0_%D1%81%D1%83%D0%B4%D0%B0%D1%85_%D0%B1%D0%B5%D0%B7_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%BD%D0%B5_%D1%81%D1%83%D0%B4%D0%B0_%D1%81_%D0%BF%D0%B0%D1%80%D0%BE%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9_%2830%29",
+      "sdoTitle": "Восстановительная подготовка для работы на судах без ограничения Только не суда с паросиловой главной двигательной установкой (30)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-160",
+      "number": 160,
+      "section": 3,
+      "name": "Обслуживание систем динамического позиционирования (для судовых механиков)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3",
+        "III/6"
+      ],
+      "keywords": [
+        "dynamic positioning"
+      ],
+      "aliases": [
+        "dynamic positioning"
+      ]
+    },
+    {
+      "id": "gmu-161",
+      "number": 161,
+      "section": 3,
+      "name": "Высоковольтное оборудование. Эксплуатация и безопасность",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3",
+        "III/6",
+        "III/7"
+      ],
+      "keywords": [
+        "high voltage"
+      ],
+      "aliases": [
+        "high voltage"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/2848/info/60_%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+      "sdoTitle": "Высоковольтное оборудование Эксплуатация и безопасность",
+      "sdoRefresherURL": "https://aumsu.floralms.ru/content/5491/info/61_%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%28%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%29",
+      "sdoRefresherTitle": "Высоковольтное оборудование Эксплуатация и безопасность (пятилетняя переподготовка)",
+      "managerPhone": "+7 (8617) 76-79-77"
+    },
+    {
+      "id": "gmu-162",
+      "number": 162,
+      "section": 3,
+      "name": "Судовое электрооборудование, используемое во взрывоопасных зонах",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/6",
+        "III/7"
+      ],
+      "keywords": [
+        "explosive atmospheres",
+        "hazardous areas"
+      ],
+      "aliases": [
+        "explosive atmospheres",
+        "hazardous areas"
+      ]
+    },
+    {
+      "id": "gmu-163",
+      "number": 163,
+      "section": 3,
+      "name": "Подготовка по техническому обслуживанию электрических и электронных элементов судовых систем управления",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/6",
+        "III/7"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/6520/info/69_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F",
+      "sdoTitle": "Подготовка по техническому обслуживанию электрических и электронных элементов судовых систем управления",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-164",
+      "number": 164,
+      "section": 3,
+      "name": "Дополнительная подготовка по обслуживанию судового электрооборудования",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/6",
+        "III/7"
+      ]
+    },
+    {
+      "id": "gmu-165",
+      "number": 165,
+      "section": 3,
+      "name": "Судовые дизельные двигатели с электронным управлением",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "electronically controlled engines",
+        "ME-C",
+        "RT-flex"
+      ],
+      "aliases": [
+        "electronically controlled engines",
+        "ME-C",
+        "RT-flex"
+      ],
+      "sdoURL": "https://aumsu.floralms.ru/content/11714/info/71_%D0%A1%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D1%81_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%BC_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%2830%29",
+      "sdoTitle": "Судовые дизельные двигатели с электронным управлением (30)",
+      "managerPhone": "+7 (8617) 76-79-12"
+    },
+    {
+      "id": "gmu-166",
+      "number": 166,
+      "section": 3,
+      "name": "Управление операциями с судовыми топливами (требования IMO 2020)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3"
+      ],
+      "keywords": [
+        "IMO 2020",
+        "fuel oil management"
+      ],
+      "aliases": [
+        "IMO 2020",
+        "fuel oil management"
+      ]
+    },
+    {
+      "id": "gmu-167",
+      "number": 167,
+      "section": 3,
+      "name": "Эксплуатация рефрижераторных установок провизионных кладовых и систем кондиционирования воздуха",
+      "categories": [
+        "initial",
+        "refresher"
+      ],
+      "functions": [
+        "III/1",
+        "III/2",
+        "III/3",
+        "III/6"
+      ],
+      "keywords": [
+        "refrigeration",
+        "air conditioning"
+      ],
+      "aliases": [
+        "refrigeration",
+        "air conditioning"
+      ]
+    },
+    {
+      "id": "gmu-168",
+      "number": 168,
+      "section": 4,
+      "name": "Вахтенный матрос",
+      "description": "Программа подготовки вахтенного матроса в соответствии с требованиями раздела A-II/4 Кодекса ПДНВ (пункт 2.3 Правила II/4 Конвенции ПДНВ)",
+      "stcwCode": "A-II/4",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/4"
+      ],
+      "keywords": [
+        "rating forming part of a navigational watch"
+      ],
+      "aliases": [
+        "rating forming part of a navigational watch"
+      ]
+    },
+    {
+      "id": "gmu-169",
+      "number": 169,
+      "section": 4,
+      "name": "Квалифицированный матрос",
+      "description": "Подготовка по программе ДПО в соответствии с требованиями раздела A-II/5 Кодекса ПДНВ (пункт 2.4 Правила II/5 Конвенции ПДНВ)",
+      "stcwCode": "A-II/5",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/5"
+      ],
+      "keywords": [
+        "able seafarer deck"
+      ],
+      "aliases": [
+        "able seafarer deck"
+      ]
+    },
+    {
+      "id": "gmu-170",
+      "number": 170,
+      "section": 4,
+      "name": "Боцман",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/5"
+      ],
+      "keywords": [
+        "boatswain",
+        "bosun"
+      ],
+      "aliases": [
+        "boatswain",
+        "bosun"
+      ]
+    },
+    {
+      "id": "gmu-171",
+      "number": 171,
+      "section": 4,
+      "name": "Боцман (аттестация)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "II/5"
+      ],
+      "keywords": [
+        "boatswain",
+        "bosun"
+      ],
+      "aliases": [
+        "boatswain",
+        "bosun"
+      ]
+    },
+    {
+      "id": "gmu-172",
+      "number": 172,
+      "section": 4,
+      "name": "Вахтенный моторист",
+      "description": "Программа подготовки вахтенного моториста в соответствии с требованиями раздела A-III/4 Кодекса ПДНВ (пункт 2.3 Правила III/4 Конвенции ПДНВ)",
+      "stcwCode": "A-III/4",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/4"
+      ],
+      "keywords": [
+        "rating forming part of a watch in a manned engine room"
+      ],
+      "aliases": [
+        "rating forming part of a watch in a manned engine room"
+      ]
+    },
+    {
+      "id": "gmu-173",
+      "number": 173,
+      "section": 4,
+      "name": "Квалифицированный моторист",
+      "description": "Подготовка по программе ДПО в соответствии с требованиями раздела A-III/5 Кодекса ПДНВ (пункт 2.4 Правила III/5 Конвенции ПДНВ)",
+      "stcwCode": "A-III/5",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/5"
+      ],
+      "keywords": [
+        "able seafarer engine"
+      ],
+      "aliases": [
+        "able seafarer engine"
+      ]
+    },
+    {
+      "id": "gmu-174",
+      "number": 174,
+      "section": 4,
+      "name": "Донкерман",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/5"
+      ],
+      "keywords": [
+        "donkeyman"
+      ],
+      "aliases": [
+        "donkeyman"
+      ]
+    },
+    {
+      "id": "gmu-175",
+      "number": 175,
+      "section": 4,
+      "name": "Донкерман (аттестация)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/5"
+      ],
+      "keywords": [
+        "donkeyman"
+      ],
+      "aliases": [
+        "donkeyman"
+      ]
+    },
+    {
+      "id": "gmu-176",
+      "number": 176,
+      "section": 4,
+      "name": "Спасатель на акватории (с присвоением квалификации матрос-спасатель)",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-177",
+      "number": 177,
+      "section": 4,
+      "name": "Спасатель (программа профессионального обучения, первоначальная подготовка спасателей)",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-178",
+      "number": 178,
+      "section": 4,
+      "name": "Судовой электрик",
+      "description": "Программа подготовки судового электрика в соответствии с требованиями раздела A-III/7 Кодекса ПДНВ (пункт 2.3 Правила III/7 Конвенции ПДНВ)",
+      "stcwCode": "A-III/7",
+      "categories": [
+        "initial"
+      ],
+      "functions": [
+        "III/7"
+      ],
+      "keywords": [
+        "electro-technical rating"
+      ],
+      "aliases": [
+        "electro-technical rating"
+      ]
+    },
+    {
+      "id": "gmu-179",
+      "number": 179,
+      "section": 4,
+      "name": "Токарь (аттестация)",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-180",
+      "number": 180,
+      "section": 4,
+      "name": "Электрогазосварщик (аттестация)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "welder"
+      ],
+      "aliases": [
+        "welder"
+      ]
+    },
+    {
+      "id": "gmu-181",
+      "number": 181,
+      "section": 4,
+      "name": "Буфетчик",
+      "categories": [
+        "initial"
+      ],
+      "functions": []
+    },
+    {
+      "id": "gmu-182",
+      "number": 182,
+      "section": 4,
+      "name": "Судовой повар",
+      "description": "Программа подготовки судового повара в соответствии с требованиями Конвенции ПДНВ и КТМС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "ship's cook"
+      ],
+      "aliases": [
+        "ship's cook"
+      ]
+    },
+    {
+      "id": "gmu-183",
+      "number": 183,
+      "section": 4,
+      "name": "Подготовка по особенностям работы судовым поваром для лиц, имеющих документ о квалификации повара",
+      "description": "Пункт 3 Правила 3.2 КТМС",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "ship's cook"
+      ],
+      "aliases": [
+        "ship's cook"
+      ]
+    },
+    {
+      "id": "gmu-184",
+      "number": 184,
+      "section": 4,
+      "name": "Оператор судового крана (ознакомительная подготовка)",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "keywords": [
+        "crane operator"
+      ],
+      "aliases": [
+        "crane operator"
+      ]
+    },
+    {
+      "id": "gmu-245",
+      "number": 245,
+      "section": 6,
+      "name": "Подготовка судоводителя маломерного судна, используемого в коммерческих целях",
+      "description": "Программа профессионального обучения для судоводителя маломерного судна, используемого в коммерческих целях",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/7966/info/48_%D0%9C%D0%B0%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D1%83%D0%B4%D0%BD%D0%BE_%D1%81_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%A1%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D0%B0%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0%2C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%86%D0%B5%D0%BB%D1%8F%D1%85_%283%2C0%29",
+      "sdoTitle": "Маломерное судно с правом коммерческого использования Судоводитель маломерного судна, используемого в коммерческих целях (3,0)"
+    },
+    {
+      "id": "gmu-246",
+      "number": 246,
+      "section": 6,
+      "name": "Подготовка судоводителя прогулочного судна",
+      "description": "Программа профессионального обучения для судоводителя прогулочного судна",
+      "categories": [
+        "initial"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/7971/info/49_C%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_%283%2C0%29",
+      "sdoTitle": "Cудоводитель прогулочного судна (3,0)"
+    },
+    {
+      "id": "gmu-250",
+      "number": 250,
+      "section": 6,
+      "name": "Продление диплома судоводителя маломерного или прогулочного судна",
+      "description": "Программа повышения квалификации по должности судоводителя маломерного судна, используемого в коммерческих целях, судоводителя маломерного судна, использующего силу ветра, и судоводителя прогулочного судна",
+      "categories": [
+        "renewal"
+      ],
+      "functions": [],
+      "sdoURL": "https://aumsu.floralms.ru/content/8028/info/50_%D0%A1%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D0%B0%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0_%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%9F%D0%9A_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%BC%D0%B0%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0%2C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%86%D0%B5%D0%BB%D1%8F%D1%85%2C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D1%83%D1%89%D0%B5%D0%B9_%D1%81%D0%B8%D0%BB%D1%8B_%D1%81%D0%B8%D0%BB%D1%83_%D0%B2%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0%28v_10%29",
+      "sdoTitle": "Судоводитель маломерного судна Продление Программа ПК по должности судоводителя маломерного судна, используемого в коммерческих целях, использующего в качестве основной движущей силы силу ветра и судоводителя прогулочного судна(v 10)"
+    }
+  ]
+}

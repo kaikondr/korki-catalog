@@ -1,0 +1,22 @@
+{
+ "version": 202610271434,
+ "date": "2026-10-27",
+ "files": {
+  "courses.json": {
+   "sha256": "8a48476cc2a7094b4b41482f101e5567c25e17922bf1551f136fba557a6e97a0",
+   "size": 162190
+  },
+  "requirements.json": {
+   "sha256": "8fbf4f994928ad43550da05afd0d3e19bfed6c11db7b2652a6d046c87d13605e",
+   "size": 84888
+  },
+  "rules.json": {
+   "sha256": "118a738b53ce70956eff674567b8a03b7d91b4884ada345e4c73b6e0c6a6dfb2",
+   "size": 462372
+  },
+  "ports.json": {
+   "sha256": "0f3b2c7118af51964959b8c94f27b9c700d6d6d60d29954adb51a50689c9805a",
+   "size": 2544
+  }
+ }
+}
